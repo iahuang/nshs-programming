@@ -29,3 +29,7 @@ li {
 .main {
     margin-left: 20px;
 }
+.widget {
+    position: absolute;
+    right: 10;
+}

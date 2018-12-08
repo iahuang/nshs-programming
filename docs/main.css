@@ -1,0 +1,31 @@
+.header {
+    font-family: 'Muli', sans-serif;
+    color: rgb(204, 230, 227);
+    width:100%;
+    background-color: rgb(28, 33, 44);
+
+}
+img.header{
+    padding-left:10px;
+    width:30%;
+}
+body {
+    background-color: rgb(35, 41, 55);
+    margin: 0;
+}
+p,a,h2 {
+    font-family: 'Nanum Gothic', sans-serif;
+}
+p,h2 {
+    color: rgb(202, 213, 224);
+}
+a {
+    color: rgb(130, 172, 214);
+}
+li {
+    color: rgb(144, 151, 158);
+    margin-top: 10px;
+}
+.main {
+    margin-left: 20px;
+}

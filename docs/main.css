@@ -3,7 +3,17 @@
     color: rgb(204, 230, 227);
     width:100%;
     background-color: rgb(28, 33, 44);
-
+}
+hr {
+    border-color:rgb(62, 72, 95);
+}
+.nav {
+    padding-left:60px;
+    margin-bottom: 20px;
+}
+.nav a {
+    padding-right: 40px;
+    font-size: 20;
 }
 img.header{
     padding-left:10px;
@@ -13,10 +23,10 @@ body {
     background-color: rgb(35, 41, 55);
     margin: 0;
 }
-p,a,h2 {
+p,a,h2,h1 {
     font-family: 'Nanum Gothic', sans-serif;
 }
-p,h2 {
+p,h2,h1 {
     color: rgb(202, 213, 224);
 }
 a {
@@ -27,9 +37,21 @@ li {
     margin-top: 10px;
 }
 .main {
-    margin-left: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
 }
+.gallery img {
+    width: 50%;
+    padding-top:10px;
+}
+.header a {
+    text-decoration: none;
+}
+
 .widget {
     position: absolute;
     right: 10;
+}
+code {
+    background-color: #00000046;
 }

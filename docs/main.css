@@ -23,10 +23,10 @@ body {
     background-color: rgb(35, 41, 55);
     margin: 0;
 }
-p,a,h2,h1 {
+p,a,h2,h1,td {
     font-family: 'Nanum Gothic', sans-serif;
 }
-p,h2,h1 {
+p,h2,h1,td {
     color: rgb(202, 213, 224);
 }
 a {
@@ -35,6 +35,9 @@ a {
 li {
     color: rgb(144, 151, 158);
     margin-top: 10px;
+}
+td {
+    padding-right: 30px;
 }
 .main {
     padding-top: 20px;
